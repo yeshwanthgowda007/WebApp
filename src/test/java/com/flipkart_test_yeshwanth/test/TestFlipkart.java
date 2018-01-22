@@ -22,7 +22,7 @@ public class TestFlipkart {
 		
 		SearchresultTestPage search=new SearchresultTestPage();
 		search.clickByIndex();
-		//search.verifySortedByPrice();
+		
 		
 	}
 
