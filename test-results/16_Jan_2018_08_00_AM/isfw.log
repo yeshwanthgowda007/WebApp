@@ -1,0 +1,70 @@
+[main] 13:30:18,842 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFAnnotationTransformer2] QAFTestNGListener registered!...
+[main] 13:30:18,864 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFInvokedMethodListener2] QAFTestNGListener registered!...
+[main] 13:30:18,864 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFMethodInterceptor] QAFTestNGListener registered!...
+[main] 13:30:18,864 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFResultListener] QAFTestNGListener registered!...
+[main] 13:30:18,864 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFSuiteListener] QAFTestNGListener registered!...
+[main] 13:30:18,986 INFO  [com.qmetry.qaf.automation.core.ConfigurationManager] ISFW build info: {qaf-Type=core, qaf-Revision=12-RC3, qaf-Version=2.1, qaf-Build-Time=06-Aug-2017 11:49:43}
+[main] 13:30:19,002 INFO  [com.qmetry.qaf.automation.core.ConfigurationManager] Resource dir: C:\Users\yeshwanth.kumar\QASWorkspace\Flipkart_Test_Yeshwanth\resources. Found property files to load: 3
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.encoding.pkg
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.encoding
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.separator
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.country
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.script
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.dir
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.variant
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.home
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.timezone
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.name
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.language
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:selenium.screenshots.relative.path
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:selenium.screenshots.dir
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.arch
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.name
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.version
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:line.separator
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:log4j.configuration
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:org.uncommons.reportng.xml-dialect
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:org.uncommons.reportng.escape-output
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:json.report.dir
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:json.report.root.dir
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:test.results.dir
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:awt.toolkit
+[main] 13:30:19,033 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:outputDir
+[main] 13:30:19,051 INFO  [com.qmetry.qaf.automation.core.ConfigurationManager] Resource dir: C:\Users\yeshwanth.kumar\QASWorkspace\Flipkart_Test_Yeshwanth\resources. Found property files to load: 0
+[main] 13:30:19,058 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.encoding.pkg
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.encoding
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:file.separator
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.country
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.script
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.dir
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.variant
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.home
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.timezone
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.name
+[main] 13:30:19,059 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:user.language
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:selenium.screenshots.relative.path
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:selenium.screenshots.dir
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.arch
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.name
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:os.version
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:line.separator
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:log4j.configuration
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:org.uncommons.reportng.xml-dialect
+[main] 13:30:19,060 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:org.uncommons.reportng.escape-output
+[main] 13:30:19,061 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:json.report.dir
+[main] 13:30:19,061 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:json.report.root.dir
+[main] 13:30:19,061 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:test.results.dir
+[main] 13:30:19,061 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:awt.toolkit
+[main] 13:30:19,061 DEBUG [com.qmetry.qaf.automation.util.PropertyUtil] clear system property ignored:outputDir
+[main] 13:30:19,211 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFMethodInterceptor] Method Order interceptor called
+[main] 13:30:19,242 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFResultListener] onTestStart: start
+[main] 13:30:19,265 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: verifyFlipkart
+[main] 13:30:19,296 INFO  [com.qmetry.qaf.automation.core.QAFTestBase] Initializing Driver...browser_str:chromeDriver,base_url:http://www.flipkart.com,sel_server:localhost,port:4444
+[main] 13:30:19,311 INFO  [com.qmetry.qaf.automation.ui.UiDriverFactory] Driver: chromeDriver
+[main] 13:30:19,380 ERROR [com.qmetry.qaf.automation.ui.webdriver.ChromeDriverHelper] Please set webdriver.chrome.driver property properly.
+[main] 13:30:19,387 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: verifyFlipkart - com.flipkart_test_yeshwanth.test is test:true
+[main] 13:30:19,387 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 13:30:19,389 DEBUG [com.qmetry.qaf.automation.testng.report.ReporterUtil] method:  result: skip groups: {description=null, groups=[Ljava.lang.String;@2b662a77, name=verifyFlipkart, sign=TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@73d4cc9e]}
+[main] 13:30:19,436 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFResultListener] onfinish testcntext: start
+[main] 13:30:19,455 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFSuiteListener] onFinish: start
+[main] 13:30:19,459 DEBUG [com.qmetry.qaf.automation.testng.pro.QAFSuiteListener] onFinish: done

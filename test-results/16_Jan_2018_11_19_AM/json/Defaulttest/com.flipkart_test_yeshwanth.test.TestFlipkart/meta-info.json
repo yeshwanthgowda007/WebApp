@@ -1,0 +1,67 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verifyFlipkart",
+        "sign": "TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@73d4cc9e]"
+      },
+      "dependsOn": [],
+      "startTime": 1516101741539,
+      "duration": 26249,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verifyFlipkart",
+        "resultFileName": "verifyFlipkartrECIhlPGMr",
+        "sign": "TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@73d4cc9e]"
+      },
+      "dependsOn": [],
+      "startTime": 1516101793914,
+      "duration": 20573,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verifyFlipkart",
+        "resultFileName": "verifyFlipkartITCssmRFsK",
+        "sign": "TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@73d4cc9e]"
+      },
+      "dependsOn": [],
+      "startTime": 1516101921542,
+      "duration": 32689,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verifyFlipkart",
+        "resultFileName": "verifyFlipkartTAqkOyYJqZ",
+        "sign": "TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@73d4cc9e]"
+      },
+      "dependsOn": [],
+      "startTime": 1516102118301,
+      "duration": 16717,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

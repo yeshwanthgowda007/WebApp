@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verifyFlipkart",
+        "sign": "TestFlipkart.verifyFlipkart()[pri:0, instance:com.flipkart_test_yeshwanth.test.TestFlipkart@e874448]"
+      },
+      "dependsOn": [],
+      "startTime": 1516099460238,
+      "duration": 19305,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

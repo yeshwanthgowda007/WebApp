@@ -1,0 +1,14 @@
+#surefire
+#Tue Jan 16 16:26:29 IST 2018
+selenium.screenshots.dir=test-results/16_Jan_2018_10_56_AM/img
+json.report.dir=test-results/16_Jan_2018_10_56_AM/json
+outputDir=test-results/16_Jan_2018_10_56_AM
+log4j.configuration=file\:///C\:\\Users\\yeshwanth.kumar\\QASWorkspace\\Flipkart_Test_Yeshwanth/resources/log4j.properties
+selenium.screenshots.relative.path=../img
+org.uncommons.reportng.xml-dialect=testng
+user.dir=C\:\\Users\\yeshwanth.kumar\\QASWorkspace\\Flipkart_Test_Yeshwanth
+localRepository=C\:\\Users\\yeshwanth.kumar\\.m2\\repository
+basedir=C\:\\Users\\yeshwanth.kumar\\QASWorkspace\\Flipkart_Test_Yeshwanth
+test.results.dir=test-results/16_Jan_2018_10_56_AM/html
+org.uncommons.reportng.escape-output=false
+json.report.root.dir=test-results

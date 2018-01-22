@@ -1,0 +1,4 @@
+lnk.productDetails.searchresultpage = {\"locator\":\"css=a[class='_1UoZlX']\",\"desc\":\"product division in search result page\"}
+lnk.productName.searchresultpage = {\"locator\":\"xpath=//div[@class='_3wU53n']\",\"desc\":\"product name in search result page\"}
+lnk.sortByPriceLowToHigh.searchresultpage = {\"locator\":\"xpath=//li[text()='Price -- Low to High']\",\"desc\":\"sort by price low to high\"}
+lnk.productPrice.searchresultpage = {\"locator\":\"xpath=//div[@class='_1vC4OE _2rQ-NK']\",\"desc\":\"product price in search result page\"}

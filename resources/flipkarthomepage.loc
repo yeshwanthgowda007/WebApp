@@ -1,0 +1,4 @@
+flipkarthomepage.category.lnk = {\"locator\":\"css=a[title='%s']\",\"desc\":\"Home Page Main Category link\"}
+flipkarthomepage.subcategory.lnk = {\"locator\":\"css=a[title='%s']\",\"desc\":\"Home page SubCategory link\"}
+flipkarthomepage.popup.btn = {\"locator\":[\"xpath=//button[text()='\u2715']\",\"css=svg[class='_1LYY3m']\"],\"desc\":\"popup close button\"}
+flipkarthomepage.viewall.lnk = {\"locator\":\"xpath=(//div[@class='_2rQIn7'])[1]\",\"desc\":\"view all link in products section page\"}
